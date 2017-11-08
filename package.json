@@ -1,0 +1,26 @@
+{
+  "name": "apidoc-ewa",
+  "version": "1.0.0",
+  "description": "APIdoc template based on EasyWebApp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechQuery/APIdoc-EWA.git"
+  },
+  "keywords": [
+    "api-documentation",
+    "html-template",
+    "easywebapp",
+    "javascript",
+    "cdnjs"
+  ],
+  "author": "shiy007@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TechQuery/APIdoc-EWA/issues"
+  },
+  "homepage": "https://github.com/TechQuery/APIdoc-EWA#readme"
+}
